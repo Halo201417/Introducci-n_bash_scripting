@@ -69,7 +69,7 @@ Viene instalado por defecto en los sistemas Linux, sera el que use principalment
 
 A continuación, se presentan los enlaces a los diferentes apartados del curso:
 
-1. 📄 [Cómo hacer un archivo `.sh`](docs/1-como-hacer-un-archivo-sh.md)
+1. 📄 [Cómo hacer un archivo `.sh`](1-como-hacer-un-archivo-sh.md)
 2. 🔢 [Declarar variables](docs/2-declarar-variables.md)
 3. 💻 [Asignar valores introducidos a las variables](docs/3-asignar-valores-introducidos-a-las-variables.md)
 4. 🔗 [Operadores AND y OR](docs/4-operadores-and-y-or.md)
