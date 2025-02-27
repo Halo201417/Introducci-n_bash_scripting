@@ -1,0 +1,9 @@
+# Operadores AND y OR
+
+En este apartado veremos como usar estas dos puertas logicas en bash.
+
+---
+
+## Operador AND
+
+El operador `AND` (`&&` en bash) funciona como dos puertas, es decir, 
