@@ -72,7 +72,7 @@ A continuación, se presentan los enlaces a los diferentes apartados del curso:
 1. 📄 [Cómo hacer un archivo `.sh`](1-como-hacer-un-archivo-sh.md)
 2. 🔢 [Declarar variables](2-Declarar-variables.md)
 3. 💻 [Asignar valores introducidos a las variables](3-Asignar-valores-introducidos-a-las-variables.md)
-4. 🔗 [Operadores AND y OR](4-Operadores-AND-y-OR)
+4. 🔗 [Operadores AND y OR](4-Operadores-AND-y-OR.md)
 5. 🔁 [Bucles `for`](5-bucles-for.md)
 6. ❓ [Condiciones (`if-else`)](6-condiciones-if-else.md)
 
